@@ -1,5 +1,4 @@
 # sugarane-leaf-disease-detection
-# Sugarcane Leaf Disease Detection
 
 This project is a machine learning-based approach to detect diseases in sugarcane leaves. It uses a ResNet50 model for classification.
 
